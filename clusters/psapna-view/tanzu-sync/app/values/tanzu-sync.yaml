@@ -1,0 +1,7 @@
+---
+git:
+  url: https://github.com/dapdelivery/tap-gitops-28-10-2023-08-33-29-740267702.git
+  ref: origin/master
+  sub_path: clusters/psapna-view/cluster-config
+tap_package_repository:
+  oci_repository: registry.tanzu.vmware.com/tanzu-application-platform/tap-packages
